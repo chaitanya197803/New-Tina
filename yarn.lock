@@ -3228,6 +3228,13 @@
     yup "^1.4.0"
     zod "^3.23.8"
 
+"@tinacms/datalayer@^1.3.12":
+  version "1.3.12"
+  resolved "https://registry.npmjs.org/@tinacms/datalayer/-/datalayer-1.3.12.tgz"
+  integrity sha512-++CrBP9OQdvTmx4OF1lL48pItcYERmseYzcGAbCskWYkISYofeM4Cj9kBU/eYlqiHhd7i0SrcqM1XdGnSn1fxA==
+  dependencies:
+    "@tinacms/graphql" "1.5.12"
+
 "@tinacms/graphql@1.5.12":
   version "1.5.12"
   resolved "https://registry.npmjs.org/@tinacms/graphql/-/graphql-1.5.12.tgz"
